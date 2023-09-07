@@ -17,6 +17,7 @@ import time, datetime
 # cells connected via Morse non-bonded interaction
 # bonds can be visualised
 
+#pokracujem v tomyo
 
 #ahoj tt je zmena
 
